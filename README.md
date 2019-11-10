@@ -1,3 +1,3 @@
-# Bank Marketing
+# Customer behavior
 
-Prediction of term deposit subscriptions by bank customers
+This small project provides examples of predicting customer behavior. The project uses Jupyter Notebooks that also include the documentation.
